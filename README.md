@@ -3,10 +3,10 @@ This project is based on california dataset which is in excel format
 First we need to analyze the dataset. Identify the data type of variables such as norminal,continuous,discrete etc
 After figuring out the data tye of each variable involed we will start working on the questions/ problems.
 Important libraries that need to be imported for the problems - 
-# pnadas,matplotlib,seaborne,numpy
+padas,matplotlib,seaborne,numpy
 Function used by me: round(),mean(),median(),isnull(),isnull
 I have used various plots such as
-# histogram,boxplot,barchat
+histogram,boxplot,barchat
 for different type of data types for visualization.
 
 The following problems I will adress in my project:
